@@ -1,4 +1,6 @@
-# Shoot Out Game
+# Zombapocalypse
+
+# *Zombie shootout game, try your best to survive!*
 Press "Space" while facing the enemies to shoot.
 To Exit the game press "Esc" or "Escape".
 When out of bullets press "R" to spawn ammo (once) randomly.
